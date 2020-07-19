@@ -14,7 +14,7 @@ Currently working as a Software Engineer @[Visa](https://www.visa.co.in/).
                             AWS, Microsoft Biztalk, Flutter, MySQL, SQL Server.
 <br>
 <a href="https://www.linkedin.com/in/ambareesh-r/">
-  <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Ambareesh's LinkedIn"/> 
+  <img src="https://img.icons8.com/cute-clipart/50/000000/linkedin.png" alt="Ambareesh's LinkedIn"/> 
 </a>
 <!--
 **ambareesh-ravi/ambareesh-ravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
